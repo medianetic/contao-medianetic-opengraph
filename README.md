@@ -4,7 +4,6 @@ Extension for Contao CMS 3/4 to embed opengraph tags in pages.
 
 ### Installing
 
-```
 - Copy 'medianetic-opengraph' folder to system/modules
 - Open the Contao Installtool to import the sql structure
 - Contao 4 only: Add the following line at the end of the bundles definition  at app/AppKernel.php
@@ -22,5 +21,5 @@ new Contao\CoreBundle\HttpKernel\Bundle\ContaoModuleBundle('medianetic-opengraph
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
