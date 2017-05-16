@@ -13,6 +13,8 @@ bundles = [
 ...
 new Contao\CoreBundle\HttpKernel\Bundle\ContaoModuleBundle('medianetic-opengraph', __DIR__),
 
+]
+
 ```
 
 ## Authors
